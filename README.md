@@ -3,7 +3,11 @@
 ![CI](https://github.com/<ton-username>/<ton-repo>/actions/workflows/ci.yml/badge.svg)
 
 Front end of **MediBook**, a clinic appointment management platform (ASP.NET Core REST API + PostgreSQL + Angular).
+## Screenshots
 
+| Login | Find a doctor | Booking |
+|-------|---------------|---------|
+| <img src="docs/login.png" width="300" alt="Login page"> | <img src="docs/doctors.png" width="300" alt="Doctors list"> | <img src="docs/booking.png" width="300" alt="Booking page"> |
 ## Features
 - JWT-style authentication with **role-based routing** (patient / doctor), route guards and an HTTP interceptor
 - **Patient**: dashboard, doctor search and filters, real-time slot availability, booking, cancellation
