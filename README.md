@@ -1,6 +1,5 @@
 # MediBook – Web (Angular 18)
 
-![CI](https://github.com/<ton-username>/<ton-repo>/actions/workflows/ci.yml/badge.svg)
 
 Front end of **MediBook**, a clinic appointment management platform (ASP.NET Core REST API + PostgreSQL + Angular).
 ## Screenshots
