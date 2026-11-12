@@ -9,14 +9,14 @@ import { AuthService } from '../core/auth.service';
   imports: [ReactiveFormsModule],
   template: `
     <div class="login-page">
-      <section class="login-hero">
+          <section class="login-hero">
         <div class="brand light"><span class="logo">+</span><span>MediBook</span></div>
-        <h1>Your clinic appointments, simplified.</h1>
-        <p>Find a doctor, pick a time slot and manage your visits in a few clicks.</p>
+        <h1>Your health, on your schedule.</h1>
+        <p>Book an appointment in under a minute.</p>
         <ul>
-          <li>Real-time slot availability</li>
-          <li>Role-based access for patients and doctors</li>
-          <li>Secure JWT authentication</li>
+          <li>Find a doctor</li>
+          <li>Pick a slot</li>
+          <li>Get confirmed</li>
         </ul>
       </section>
 
