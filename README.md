@@ -8,14 +8,9 @@ Clinic appointment management web app. Patients find a doctor, pick a time slot 
 
 ## Screenshots
 
-### Login
-![Login](docs/login.png)
-
-### Find a doctor
-![Doctors](docs/doctors.png)
-
-### Booking
-![Booking](docs/booking.png)
+| Login | Doctors | Booking |
+|-------|---------|---------|
+| <img src="docs/login.png" width="300"> | <img src="docs/doctors.png" width="300"> | <img src="docs/booking.png" width="300"> |
 
 ## Features
 - JWT-style authentication with role-based routing (patient / doctor), route guards and an HTTP interceptor
