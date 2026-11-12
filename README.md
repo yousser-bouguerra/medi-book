@@ -10,7 +10,7 @@ Clinic appointment management web app. Patients find a doctor, pick a time slot 
 
 | Login | Doctors | Booking |
 |-------|---------|---------|
-| <img src="docs/login.png" width="300"> | <img src="docs/doctors.png" width="300"> | <img src="docs/booking.png" width="300"> |
+| <img src="C:\Users\yosr bouguerra\Downloads\medibook-web\medibook-web\docs\login.png" width="300"> | <img src="docs/doctors.png" width="300"> | <img src="docs/booking.png" width="300"> |
 
 ## Features
 - JWT-style authentication with role-based routing (patient / doctor), route guards and an HTTP interceptor
